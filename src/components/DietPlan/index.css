@@ -1,0 +1,60 @@
+.diet-plan-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  animation: Slide_Up 1.4s ease;
+}
+
+.main-heading {
+  font-size: 25px;
+}
+
+.diet-plan-description {
+  font-size: 18px;
+  text-align: center;
+}
+
+.today {
+  font-size: 20px;
+  background-color: #33e933;
+  border: 2px solid #000000;
+  border-radius: 6px;
+  padding: 10px;
+}
+.day-plan {
+  background-color: aquamarine;
+  width: 25%;
+  border-radius: 12px;
+  padding: 15px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #000000;
+}
+.chart-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 90%;
+}
+span {
+  font-weight: 600;
+  color: #000000;
+}
+
+.food-description {
+  font-size: 20px;
+  margin: 8px;
+}
+
+.day-name {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  border: 1px solid black;
+  border-radius: 7px;
+  background-color: #33e933;
+}

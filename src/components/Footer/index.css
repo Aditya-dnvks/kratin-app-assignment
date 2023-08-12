@@ -1,0 +1,36 @@
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0d2436;
+  width: 100%;
+  color: #ffffff;
+}
+.copyrights {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.footer-links {
+  list-style: none;
+}
+.footer-link {
+  text-decoration: none;
+  margin: 10px;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.social-icons {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.icons {
+  margin: 10px;
+  height: 40px;
+  width: 40px;
+}
