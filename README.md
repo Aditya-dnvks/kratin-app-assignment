@@ -42,7 +42,7 @@ your idea using technology known to you.</p>
 
 
 
-**Consult Doctor**:
+<h2>Consult Doctor:</h2>
 
 ![image](https://github.com/Aditya-dnvks/kratin-app-assignment/assets/115411253/95981e83-d4e6-4d8c-a458-b2b353154ee4)
 
